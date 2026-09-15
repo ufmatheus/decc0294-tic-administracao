@@ -1,0 +1,4 @@
+As correntes elétricas em circuitos são regidas por leis fundamentais que descrevem o comportamento da carga elétrica. A Primeira Lei de Kirchhoff (Lei das Correntes) afirma que a soma algébrica das correntes que entram em um nó é igual à soma das que saem, garantindo a conservação da carga. A Lei de Ohm relaciona tensão, corrente e resistência (V = R·I), permitindo calcular o fluxo elétrico em componentes. A Segunda Lei de Kirchhoff (Lei das Tensões) estabelece que a soma das diferenças de potencial em um laço fechado é igual a zero, refletindo a conservação de energia. Juntas, essas leis formam a base para análise e projeto de qualquer circuito elétrico.
+
+Referência:
+ALEXANDER, Charles K.; SADIKU, Matthew N.O. **Fundamentos de Circuitos Elétricos**. 5. ed. Rio de Janeiro: McGraw-Hill, 2013.
